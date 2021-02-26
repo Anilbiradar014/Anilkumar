@@ -47,4 +47,9 @@ Company named X Education gets a lot of leads, its lead conversion rate is very 
 * Finding the correlation between independent variables and dropping one of the highly correlated variables.
 * Important variables for the target prediction are selected using Recursive Feature Eliminations.
 * Finding the optimal cut-off point between sensitivity and specificity.
-![](https://github.com/Anilbiradar014/Anilkumar/blob/main/Images/Lead_P5.png)
+![](/Images/Lead_P5.png)
+
+# [Project 7: Supermarket Price Wars](https://github.com/Anilbiradar014/Supermarket-Price-Wars)
+The objective of the investigation is to figure out which supermarket, Coles or Woolworths, is cheaper. The sample is gathered from the website https://grocerycop.com.au/products which includes 9 products from each of the 10 categories. A large sample of 90 (n > 30) is chosen in accordance with Central Limit Theorem(CLT) to effectively avoid the issue with normality and to limit standard error. 
+* The paired-samples t-test is used to check for the statistically significant mean difference between Coles and Woolworths prices. 
+* The result of the dependent sample t-test signifies that there is a statistically significant mean difference between Coles Price and Woolworths Price. 
