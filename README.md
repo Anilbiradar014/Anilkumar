@@ -27,7 +27,7 @@ Aim of the project is to categorise the countries using some socio-economic and 
 ![](/Images/Clustering_P3.png)
 
 # [Project 4: Covid 19 Dashboard](https://github.com/Anilbiradar014/Covid-19-Dashboard-R-Shiny) - 
-## [Click here to see Live](https://anilbiradar.shinyapps.io/Covid19Dashboard/)
+### [Click here to see Live](https://anilbiradar.shinyapps.io/Covid19Dashboard/)
 * The R shiny app is built to view the interactive visualisation for cumulative COVID-19 cases and the three-machine learning model output. 
 * This graphs allows you to understand the way the COVID-19 cases have increased across the globe along with time.
 ![](/Images/Covid_P4.png)
@@ -52,7 +52,7 @@ The objective of the investigation is to figure out which supermarket, Coles or 
 * The result of the dependent sample t-test signifies that there is a statistically significant mean difference between Coles Price and Woolworths Price. 
 
 # [Project 8: Shiny App: ODI Cricketers Info](https://github.com/Anilbiradar014/ODI-Cricketers-Info-Shiny-App)
-### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
+#### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
 * Information about cricket players in One-Day Internationals namely Batting average, Strike Rate, Number of hundreds in comparison with Sachin tendulkar
 * With filters :Minimum number of innings, player country, player name
 ![](/Images/ODI_P8.png)
