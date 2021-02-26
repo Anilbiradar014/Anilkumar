@@ -1,10 +1,3 @@
-  title: Data Science Portfolio
-  description: Anilkumar Lingaraj Biradar
-<span style="color:#0099cc">Anilkumar Biradar</span>
-<span style="color:green">Anilkumar Lingaraj Biradar</span>
-
-My name is Anilkumar Lingaraj Biradar. Currently I am pursing master's in Data Analytics from RMIT Univeristy.
-
 # [Project 1: House Price Prediction using Advance Regression](https://github.com/Anilbiradar014/House-Price-Prediction-Using-Advance-Regression/blob/main/README.md)
 Aim of the project is to know the following things about the prospective properties:<br/>
 1 Which variables are significant in predicting the price of a house, and<br/>
