@@ -34,11 +34,16 @@ Aim of the project is to categorise the countries using some socio-economic and 
 * This graphs allows you to understand the way the COVID-19 cases have increased across the globe along with time.
 ![](/Images/Covid_P4.png)
 
-# [Project 5:Mobile Price Prediction]()
+# [Project 5:Mobile Price Prediction](https://github.com/Anilbiradar014/mobile-price-prediction)
 This Study aims at accurately predicting in what price range a particular mobile falls into , by fitting the data into five classifiers (K-NearestNeighbour, Decision Tree, Random Forest Classifier, Naive Bayes Classifier, and Support Vector Machine Classifier) and identify the best classifier with highest accuracy.
 * As a new mobile company have to give tough fight to big companies it is essential to estimate price range of mobiles accurately. Hence accuracy performance metric was used on trained and test data.
 * From the Confusion Matrix it can be interpreted that SVM predicted all the price ranges most accurately with error classification rate of 0.027.
 * The average class accuracy also stood at 0.973. Thus SVM outperformed the other classifiers and is in line with our objective.
 ![](/Images/Mobile_price_p5.png)
 
-
+# [Project 6: Lead Scoring Case Study](https://github.com/Anilbiradar014/Lead-Scoring-Case-Study/blob/main/Lead_Scoring_Assignment.ipynb)
+Company named X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.
+* Finding the correlation between independent variables and dropping one of the highly correlated variables.
+* Important variables for the target prediction are selected using Recursive Feature Eliminations.
+* Finding the optimal cut-off point between sensitivity and specificity.
+![](https://github.com/Anilbiradar014/Anilkumar/blob/main/Images/Lead_P5.png)
