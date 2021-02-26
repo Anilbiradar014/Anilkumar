@@ -32,13 +32,13 @@ Aim of the project is to categorise the countries using some socio-economic and 
 # [Project 4: Covid 19 Dashboard](https://github.com/Anilbiradar014/Covid-19-Dashboard-R-Shiny) - [Live](https://anilbiradar.shinyapps.io/Covid19Dashboard/)
 * The R shiny app is built to view the interactive visualisation for cumulative COVID-19 cases and the three-machine learning model output. 
 * This graphs allows you to understand the way the COVID-19 cases have increased across the globe along with time.
-![](https://github.com/Anilbiradar014/portfolio/blob/main/Images/Covid_P4.png)
+![](/Images/Covid_P4.png)
 
 # [Project 5:Mobile Price Prediction]()
 This Study aims at accurately predicting in what price range a particular mobile falls into , by fitting the data into five classifiers (K-NearestNeighbour, Decision Tree, Random Forest Classifier, Naive Bayes Classifier, and Support Vector Machine Classifier) and identify the best classifier with highest accuracy.
 * As a new mobile company and give tough fight to big companies it is essential to estimate price range of mobiles accurately. Hence accuracy performance metric was used on trained and test data.
 * From the Confusion Matrix it can be interpreted that SVM predicted all the price ranges most accurately with error classification rate of 0.027.
 * The average class accuracy also stood at 0.973. Thus SVM outperformed the other classifiers and is in line with our objective.
-![](https://github.com/Anilbiradar014/Anilkumar/blob/main/Images/Mobile_price_p5.png)
+![](/Images/Mobile_price_p5.png)
 
 
