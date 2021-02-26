@@ -19,7 +19,7 @@ Aim of the project is to know the following things about the prospective propert
 1 Which variables are significant in predicting the price of a house, and<br/>
 2 How well those variables describe the price of a house
 
-![](https://github.com/Anilbiradar014/portfolio/blob/main/Images/Result_P1.png)
+<div>
 <div style="width: 60%; float:left">
  + Feature selection using Recursive Feature Elimination 
 + Building the Ridge Regression and Lasso Regression models.
@@ -27,8 +27,10 @@ Aim of the project is to know the following things about the prospective propert
 </div>
 
 <div style="width: 40%; float:right">
-   #right content in there
+![](https://github.com/Anilbiradar014/portfolio/blob/main/Images/Result_P1.png)
 </div>
+</div>
+
 # [Project 2: Forecast-the-number-of-passengers-for-the-next-twelve-months](https://github.com/Anilbiradar014/Forecast-the-number-of-passengers-for-the-next-twelve-months)
 
 With the data on the number of passengers that have travelled with the airline on a particular route for the past few years. Using this data, want to forecast the number of passengers for the next twelve months.
