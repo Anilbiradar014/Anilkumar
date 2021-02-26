@@ -22,4 +22,5 @@ With the data on the number of passengers that have travelled with the airline o
 + Selecting the best model based on RMSE and MAPE.
 ![](https://github.com/Anilbiradar014/portfolio/blob/main/Images/SARIMAX_P2.png)
 
-# [Project 3: Choosing the countries that are in the direst need of aid](
+# [Project 3: Choosing the countries that are in the direst need of aid](https://github.com/Anilbiradar014/choosing-the-countries-that-are-in-the-direst-need-of-aid.)
+
