@@ -1,13 +1,4 @@
-<div class="section" id="header">
-  <div class="wrapper">
-    <h1>Miguel Maldonado</h1>
-    <h2>Data Scientist and Web Developer</h2>
-  </div>
-</div>
-
-
-
-# <span style="color:#0099cc">Anilkumar Biradar</span>
+# <center><span style="color:#0099cc">Anilkumar Biradar</span></center>
 ## <span style="color:green">Data Science Portfolio</span>
 
 
