@@ -1,5 +1,3 @@
-<head><title> Anil Porfolio </title></head>
-
 # [Project 1: House Price Prediction using Advance Regression](https://github.com/Anilbiradar014/House-Price-Prediction-Using-Advance-Regression/blob/main/README.md)
 Aim of the project is to know the following things about the prospective properties:<br/>
 1 Which variables are significant in predicting the price of a house, and<br/>
@@ -49,7 +47,8 @@ Company named X Education gets a lot of leads, its lead conversion rate is very 
 # [Project 7: Supermarket Price Wars](https://github.com/Anilbiradar014/Supermarket-Price-Wars)
 The objective of the investigation is to figure out which supermarket, Coles or Woolworths, is cheaper. The sample is gathered from the website https://grocerycop.com.au/products which includes 9 products from each of the 10 categories. A large sample of 90 (n > 30) is chosen in accordance with Central Limit Theorem(CLT) to effectively avoid the issue with normality and to limit standard error. 
 * The paired-samples t-test is used to check for the statistically significant mean difference between Coles and Woolworths prices. 
-* The result of the dependent sample t-test signifies that there is a statistically significant mean difference between Coles Price and Woolworths Price. 
+* The result of the dependent sample t-test signifies that there is a statistically significant mean difference between Coles Price and Woolworths Price.
+* In conclusion, Woolworths prices are found to be significantly cheaper when compared to Coles prices. 
 
 # [Project 8: Shiny App: ODI Cricketers Info](https://github.com/Anilbiradar014/ODI-Cricketers-Info-Shiny-App)
 #### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
