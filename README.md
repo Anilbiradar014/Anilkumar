@@ -21,9 +21,9 @@ Aim of the project is to know the following things about the prospective propert
 
 <div>
 <div style="width: 60%; float:left">
- + Feature selection using Recursive Feature Elimination 
-+ Building the Ridge Regression and Lasso Regression models.
-+ Hyperparameter tuning and selecting the best model based on RMSE and R-squared value.
+* Feature selection using Recursive Feature Elimination <br/>
+* Building the Ridge Regression and Lasso Regression models.<br/>
+* Hyperparameter tuning and selecting the best model based on RMSE and R-squared value.<br/>
 </div>
 
 <div style="width: 40%; float:right">
