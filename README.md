@@ -13,7 +13,7 @@ Aim of the project is to know the following things about the prospective propert
 ![](/Images/Result_P1.png)
 
 
-# [Project 2: Forecast-the-number-of-passengers-for-the-next-twelve-months](https://github.com/Anilbiradar014/Forecast-the-number-of-passengers-for-the-next-twelve-months)
+# [Project 2: Forecast the number of passengers for the next twelve months](https://github.com/Anilbiradar014/Forecast-the-number-of-passengers-for-the-next-twelve-months)
 
 With the data on the number of passengers that have travelled with the airline on a particular route for the past few years. Using this data, want to forecast the number of passengers for the next twelve months.
 
@@ -23,4 +23,8 @@ With the data on the number of passengers that have travelled with the airline o
 ![](/Images/SARIMAX_P2.png)
 
 # [Project 3: Choosing the countries that are in the direst need of aid](https://github.com/Anilbiradar014/choosing-the-countries-that-are-in-the-direst-need-of-aid.)
+Aim of the project is to categorise the countries using some socio-economic and health factors and need to suggest the countries which needs to focus on the most.
+* Using Hopkins Statistics to find whether data points have high tendency of cluster.
+* Tuning optimal number of clusters using KMEANS clustering 
+* Finding the optimal number of clusters using Hierarchical Clustering
 
