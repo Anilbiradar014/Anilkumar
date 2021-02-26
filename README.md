@@ -53,4 +53,4 @@ The objective of the investigation is to figure out which supermarket, Coles or 
 ### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
 * Information about cricket players in One-Day Internationals namely Batting average, Strike Rate, Number of hundreds in comparison with Sachin tendulkar
 * With filters :Minimum number of innings, player country, player name
-![](https://github.com/Anilbiradar014/Anilkumar/blob/main/Images/ODI_P8.png)
+![](/Images/ODI_P8.png)
