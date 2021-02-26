@@ -1,5 +1,5 @@
-# <span style="color:#0099cc">Anilkumar Biradar</span>
-## <span style="color:green">Data Science Portfolio</span>
+<span style="color:#0099cc">Anilkumar Biradar</span>
+<span style="color:green">Data Science Portfolio</span>
 
 My name is Anilkumar Lingaraj Biradar. Currently I am pursing master's in Data Analytics from RMIT Univeristy.
 
