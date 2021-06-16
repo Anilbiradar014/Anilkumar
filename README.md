@@ -55,3 +55,17 @@ The objective of the investigation is to figure out which supermarket, Coles or 
 * Information about cricket players in One-Day Internationals namely Batting average, Strike Rate, Number of hundreds in comparison with Sachin tendulkar
 * With filters :Minimum number of innings, player country, player name
 ![](/Images/ODI_P8.png)
+
+
+
+https://rpubs.com/Anilbiradar/time_series_sarima
+
+
+# [Project 9: Time Series analysis of Airline passengers using R](https://rpubs.com/Anilbiradar/time_series_sarima)
+
+A seasonal time series data is read and fitted with deterministic and stochastic trend models. A residual approach is followed to fit the stochastic models and a possible set of models is found, and each model is checked for significant coefficients and the significant models are selected for the diagnostics checking. Then the residual analysis is conducted on each model and the model with the stationary residuals is selected for the forecast.
+
++ To capture the level, trend and seasonality in the time series with different smoothing techniques.
++ Also build the Seasonal Autoregressive Integrated Moving Average (SARIMA) Model.
++ Selecting the best model based on residual analysis.
+![](/Images/forecast_image.png)
