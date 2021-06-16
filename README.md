@@ -57,10 +57,6 @@ The objective of the investigation is to figure out which supermarket, Coles or 
 ![](/Images/ODI_P8.png)
 
 
-
-https://rpubs.com/Anilbiradar/time_series_sarima
-
-
 # [Project 9: Time Series analysis of Airline passengers using R](https://rpubs.com/Anilbiradar/time_series_sarima)
 
 A seasonal time series data is read and fitted with deterministic and stochastic trend models. A residual approach is followed to fit the stochastic models and a possible set of models is found, and each model is checked for significant coefficients and the significant models are selected for the diagnostics checking. Then the residual analysis is conducted on each model and the model with the stationary residuals is selected for the forecast.
