@@ -1,3 +1,16 @@
+# [Project 1: Expense Tracker](https://reactexpensesapp.azurewebsites.net/)
+#### [Click here to see live](https://reactexpensesapp.azurewebsites.net/)
+* Expense Tracker App developed using React js library
+* Used hooks and Redux to develop the app
+* Deployed to Azure using the Azure App service.
+![](/Images/Expense_Tracker.png)
+
+# [Project 1: Shiny App: ODI Cricketers Info](https://github.com/Anilbiradar014/ODI-Cricketers-Info-Shiny-App)
+#### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
+* Information about cricket players in One-Day Internationals namely Batting average, Strike Rate, Number of hundreds in comparison with Sachin tendulkar
+* With filters :Minimum number of innings, player country, player name
+![](/Images/ODI_P8.png)
+
 # [Project 1: House Price Prediction using Advance Regression](https://github.com/Anilbiradar014/House-Price-Prediction-Using-Advance-Regression/blob/main/README.md)
 Aim of the project is to know the following things about the prospective properties:<br/>
 1 Which variables are significant in predicting the price of a house, and<br/>
@@ -50,11 +63,7 @@ The objective of the investigation is to figure out which supermarket, Coles or 
 * The result of the dependent sample t-test signifies that there is a statistically significant mean difference between Coles Price and Woolworths Price.
 * In conclusion, Woolworths prices are found to be significantly cheaper when compared to Coles prices. 
 
-# [Project 8: Shiny App: ODI Cricketers Info](https://github.com/Anilbiradar014/ODI-Cricketers-Info-Shiny-App)
-#### [Click here to see live](https://anilbiradar.shinyapps.io/CricketODIPlayersBattingDetails/)
-* Information about cricket players in One-Day Internationals namely Batting average, Strike Rate, Number of hundreds in comparison with Sachin tendulkar
-* With filters :Minimum number of innings, player country, player name
-![](/Images/ODI_P8.png)
+
 
 
 # [Project 9: Time Series analysis of Airline passengers using R](https://rpubs.com/Anilbiradar/time_series_sarima)
